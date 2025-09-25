@@ -3,6 +3,8 @@
 A simple website built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.  
 The goal of this project is to practice **basic HTML skills** by creating a recipe website.
 
+[Live Preview](ahyejin.github.io/odin-recipes/)
+
 ## Features
 - Home page with links to individual recipes  
 - Each recipe page includes:
@@ -17,11 +19,5 @@ The goal of this project is to practice **basic HTML skills** by creating a reci
 - Setting up a basic HTML project structure  
 - Using relative links between pages  
 - Adding images with proper paths  
-- Structuring content with headings, lists, and paragraphs  
+- Structuring content with headings, ordered and unordered lists, and paragraphs  
 
-## How to View
-Clone the repo and open `index.html` in your browser:
-```bash
-git clone https://github.com/yourusername/odin-recipes.git
-cd odin-recipes
-open index.html

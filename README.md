@@ -3,7 +3,7 @@
 A simple website built as part of [The Odin Project](https://www.theodinproject.com/) curriculum.  
 The goal of this project is to practice **basic HTML skills** by creating a recipe website.
 
-## [Live Preview](https://ahyejin.github.io/odin-recipes/)
+## [Live Preview](https://anishiitg.github.io/odin-recipes/)
 
 ## Features
 - Home page with links to individual recipes  
